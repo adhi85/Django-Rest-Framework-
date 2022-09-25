@@ -1,0 +1,1 @@
+Go to http://127.0.0.1:8000/api/ to access the rest framework and perform CRUD operations.
